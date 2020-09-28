@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name = "KMM-Android-Demo"
+rootProject.name = 'shared'
+enableFeaturePreview('GRADLE_METADATA')
