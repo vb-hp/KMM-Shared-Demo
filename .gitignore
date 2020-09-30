@@ -1,0 +1,7 @@
+*.iml
+/.idea
+*.bak
+/.grade
+.DS_Store
+/.gradle/
+/build/
